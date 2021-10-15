@@ -14,7 +14,7 @@
       
       <guid>http://example.org/posts/my-second-post/</guid>
       <description>#遇到的问题
- 遇到第一个问题是在某一路径下打开cmd，win+r下打开cmd再输入相关指令进入对应目录有些繁琐，经过网上查阅一些信息后得知：可以选中当前地址，并将其改更换为cmd，即可进入对应目录的powershell。Windows Powershell实际上是cmd的超集，几乎可以完成cmd可以完成的任何内容。 第二个问题是选用的主题有问题，需要删除注册的博客。这里需要将本地和线上两部分内容同时删除掉才可以实现。 </description>
+遇到第一个问题是在某一路径下打开cmd，win+r下打开cmd再输入相关指令进入对应目录有些繁琐，经过网上查阅一些信息后得知：可以选中当前地址，并将其改更换为cmd，即可进入对应目录的powershell。Windows Powershell实际上是cmd的超集，几乎可以完成cmd可以完成的任何内容。 ##第二个问题是选用的主题有问题，需要删除注册的博客。这里需要将本地和线上两部分内容同时删除掉才可以实现。</description>
     </item>
     
     <item>
